@@ -19,8 +19,8 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# Travel
-Vue Project
->>>>>>> b021373c48b8d87abb82e7b4b3bfb86db879acc4
+### 首页预留图
+![image](https://github.com/monstereat/Travel/blob/master/project-img/localhost_8080_(iPhone%206_7_8)%20home.png)
+
+### 城市选择预留图
+![image](https://github.com/monstereat/Travel/blob/master/project-img/localhost_8080_(iPhone%206_7_8)%20city.png)
